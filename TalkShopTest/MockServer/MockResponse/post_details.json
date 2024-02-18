@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "data": {
+        "postId": "16",
+        "videoUrl": "video16.mov",
+        "thumbnail_url": "image16",
+        "username": "user1623",
+        "likes": 120,
+        "profilePictureUrl": "pro16"
+    }
+}
+

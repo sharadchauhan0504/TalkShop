@@ -1,0 +1,106 @@
+{
+    "status": "success",
+    "data": {
+        "username": "Kamikaze",
+        "profilePictureUrl": "pro6",
+        "posts": [
+            {
+                "postId": "6",
+                "videoUrl": "video6.mov",
+                "thumbnail_url": "image6",
+                "username": "Kamikaze",
+                "likes": 7,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "7",
+                "videoUrl": "video7.mov",
+                "thumbnail_url": "image7",
+                "username": "Kamikaze",
+                "likes": 66,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "8",
+                "videoUrl": "video8.mov",
+                "thumbnail_url": "image8",
+                "username": "Kamikaze",
+                "likes": 145,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "9",
+                "videoUrl": "video9.mov",
+                "thumbnail_url": "image9",
+                "username": "Kamikaze",
+                "likes": 76,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "10",
+                "videoUrl": "video10.mov",
+                "thumbnail_url": "image10",
+                "username": "Kamikaze",
+                "likes": 109,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "11",
+                "videoUrl": "video11.mov",
+                "thumbnail_url": "image11",
+                "username": "Kamikaze",
+                "likes": 156,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "12",
+                "videoUrl": "video12.mov",
+                "thumbnail_url": "image12",
+                "username": "Kamikaze",
+                "likes": 526,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "13",
+                "videoUrl": "video13.mov",
+                "thumbnail_url": "image13",
+                "username": "Kamikaze",
+                "likes": 6,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "14",
+                "videoUrl": "video14.mov",
+                "thumbnail_url": "image14",
+                "username": "Kamikaze",
+                "likes": 90,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "15",
+                "videoUrl": "video15.mov",
+                "thumbnail_url": "image15",
+                "username": "Kamikaze",
+                "likes": 66,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "16",
+                "videoUrl": "video16.mov",
+                "thumbnail_url": "image16",
+                "username": "Kamikaze",
+                "likes": 120,
+                "profilePictureUrl": "pro6"
+            },
+            {
+                "postId": "17",
+                "videoUrl": "video17.mov",
+                "thumbnail_url": "image17",
+                "username": "Kamikaze",
+                "likes": 131,
+                "profilePictureUrl": "pro6"
+            }
+        ]
+    }
+}
+

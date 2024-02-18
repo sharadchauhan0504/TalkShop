@@ -1,0 +1,150 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "postId": "1",
+            "videoUrl": "video1.mov",
+            "thumbnail_url": "image1",
+            "username": "user123",
+            "likes": 56,
+            "profilePictureUrl": "pro1"
+        },
+        {
+            "postId": "2",
+            "videoUrl": "video2.mov",
+            "thumbnail_url": "image2",
+            "username": "user223",
+            "likes": 20,
+            "profilePictureUrl": "pro2"
+        },
+        {
+            "postId": "3",
+            "videoUrl": "video3.mov",
+            "thumbnail_url": "image3",
+            "username": "user323",
+            "likes": 50,
+            "profilePictureUrl": "pro3"
+        },
+        {
+            "postId": "4",
+            "videoUrl": "video4.mov",
+            "thumbnail_url": "image4",
+            "username": "user423",
+            "likes": 60,
+            "profilePictureUrl": "pro4"
+        },
+        {
+            "postId": "5",
+            "videoUrl": "video5.mov",
+            "thumbnail_url": "image5",
+            "username": "user523",
+            "likes": 110,
+            "profilePictureUrl": "pro5"
+        },
+        {
+            "postId": "6",
+            "videoUrl": "video6.mov",
+            "thumbnail_url": "image6",
+            "username": "user623",
+            "likes": 7,
+            "profilePictureUrl": "pro6"
+        },
+        {
+            "postId": "7",
+            "videoUrl": "video7.mov",
+            "thumbnail_url": "image7",
+            "username": "user723",
+            "likes": 66,
+            "profilePictureUrl": "pro7"
+        },
+        {
+            "postId": "8",
+            "videoUrl": "video8.mov",
+            "thumbnail_url": "image8",
+            "username": "user823",
+            "likes": 145,
+            "profilePictureUrl": "pro8"
+        },
+        {
+            "postId": "9",
+            "videoUrl": "video9.mov",
+            "thumbnail_url": "image9",
+            "username": "user923",
+            "likes": 76,
+            "profilePictureUrl": "pro9"
+        },
+        {
+            "postId": "10",
+            "videoUrl": "video10.mov",
+            "thumbnail_url": "image10",
+            "username": "user1023",
+            "likes": 109,
+            "profilePictureUrl": "pro10"
+        },
+        {
+            "postId": "11",
+            "videoUrl": "video11.mov",
+            "thumbnail_url": "image11",
+            "username": "user1123",
+            "likes": 156,
+            "profilePictureUrl": "pro11"
+        },
+        {
+            "postId": "12",
+            "videoUrl": "video12.mov",
+            "thumbnail_url": "image12",
+            "username": "user1223",
+            "likes": 526,
+            "profilePictureUrl": "pro12"
+        },
+        {
+            "postId": "13",
+            "videoUrl": "video13.mov",
+            "thumbnail_url": "image13",
+            "username": "user1323",
+            "likes": 6,
+            "profilePictureUrl": "pro13"
+        },
+        {
+            "postId": "14",
+            "videoUrl": "video14.mov",
+            "thumbnail_url": "image14",
+            "username": "user1423",
+            "likes": 90,
+            "profilePictureUrl": "pro14"
+        },
+        {
+            "postId": "15",
+            "videoUrl": "video15.mov",
+            "thumbnail_url": "image15",
+            "username": "user1523",
+            "likes": 66,
+            "profilePictureUrl": "pro15"
+        },
+        {
+            "postId": "16",
+            "videoUrl": "video16.mov",
+            "thumbnail_url": "image16",
+            "username": "user1623",
+            "likes": 120,
+            "profilePictureUrl": "pro16"
+        },
+        {
+            "postId": "17",
+            "videoUrl": "video17.mov",
+            "thumbnail_url": "image17",
+            "username": "user1723",
+            "likes": 131,
+            "profilePictureUrl": "pro17"
+        },
+        {
+            "postId": "18",
+            "videoUrl": "video18.mov",
+            "thumbnail_url": "image18",
+            "username": "user1823",
+            "likes": 11,
+            "profilePictureUrl": "pro18"
+        }
+        
+    ]
+}

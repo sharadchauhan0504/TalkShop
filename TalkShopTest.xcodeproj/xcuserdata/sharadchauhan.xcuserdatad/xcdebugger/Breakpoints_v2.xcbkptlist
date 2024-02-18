@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0632189-F8A7-4438-8795-3F3D70D0A606"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D285321A-804F-4221-AF34-28EC586BA934"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalkShopTest/Modules/Profile/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getProfileDetails(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D285321A-804F-4221-AF34-28EC586BA934 - d700d21abf419166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TalkShopTest.ProfileDetailsResponse&gt;, Swift.Optional&lt;Swift.Int&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalkShopTest.ProfileViewModel.getProfileDetails() -&gt; ()"
+                  moduleName = "TalkShopTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sharadchauhan/Desktop/TalkShopTest/TalkShopTest/Modules/Profile/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "D285321A-804F-4221-AF34-28EC586BA934 - edb9b04720928828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TalkShopTest.ProfileDetailsResponse&gt;, Swift.Optional&lt;Swift.Int&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalkShopTest.ProfileViewModel.getProfileDetails(Swift.String) -&gt; ()"
+                  moduleName = "TalkShopTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sharadchauhan/Desktop/TalkShopTest/TalkShopTest/Modules/Profile/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

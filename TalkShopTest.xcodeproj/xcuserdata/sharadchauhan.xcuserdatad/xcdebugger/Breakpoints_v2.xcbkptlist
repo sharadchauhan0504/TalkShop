@@ -49,6 +49,21 @@
                   endingLineNumber = "32"
                   offsetFromSymbolStart = "452">
                </Location>
+               <Location
+                  uuid = "D285321A-804F-4221-AF34-28EC586BA934 - bb5640bc9b60d963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TalkShopTest.ProfileDetailsResponse&gt;, Swift.Optional&lt;Swift.Int&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalkShopTest.ProfileViewModel.getProfileDetails(Swift.String) -&gt; ()"
+                  moduleName = "TalkShopTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sharadchauhan/Documents/TalkShop/TalkShopTest/Modules/Profile/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "452">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>

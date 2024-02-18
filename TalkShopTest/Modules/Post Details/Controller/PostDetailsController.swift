@@ -32,6 +32,7 @@ class PostDetailsController: UIViewController {
     //MARK: - Private variables
     private var feedData: HomeFeed? = nil
     private var player: AVPlayer!
+    private var playerLayer: AVPlayerLayer!
     private var isPostLiked = false
     
     //MARK: Lifecycle methods
@@ -51,6 +52,11 @@ class PostDetailsController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setPostDetails()
+    }
+    
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        playerLayer.frame = videoPlayerContainer.bounds
     }
     
     //MARK: - Private methods
@@ -110,8 +116,7 @@ extension PostDetailsController {
             return
         }
         player = AVPlayer(url: URL(fileURLWithPath: path))
-        let playerLayer = AVPlayerLayer(player: player)
-        playerLayer.frame = view.bounds
+        playerLayer = AVPlayerLayer(player: player)
         playerLayer.videoGravity = .resizeAspectFill
         videoPlayerContainer.layer.addSublayer(playerLayer)
         player.addObserver(self, forKeyPath: #keyPath(AVPlayer.status), options: [.new, .initial], context: nil)
